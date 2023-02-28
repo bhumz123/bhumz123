@@ -1,5 +1,8 @@
+![logo](https://github.com/bhumz123/bhumz123/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm BHUMIKA RANA</h1>
 <h3 align="center">Passionate machine learning enthusiast from Delhi..., for fun I design websites</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/bhumz123/bhumz123/blob/main/imageee.png">
 
 
 
